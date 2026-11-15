@@ -1,7 +1,7 @@
 ## Phase I – Business Process Modeling
 
 ### 1. Selected Business Process
-Information moves in a simple way. The customer gives information to the Booking officer, the Booking officer enters it in the system, and the system shares it with everyone who needs it: the Rental manager sees which cars are free, the payment provider confirms payments, and the car inspector sees which car is due back. Because every step is recorded, the process supports daily operations, since the company always knows which cars are free, rented or in repair, and who has paid. It also supports management decisions. The Booking officer can use the saved records to see which cars are rented most, how much money comes in each month, how often cars are damaged or returned late, and then decide on prices, new cars and maintenance plans.
+This is how the information moves in car rental business; The customer gives information to the Booking officer, the Booking officer enters it in the system, and the system shares it with everyone who needs it: the Rental manager sees which cars are free, the payment provider confirms payments, and the car inspector sees which car is due back. Because every step is recorded, the process supports daily operations, since the company always knows which cars are free, rented or in repair, and who has paid. It also supports management decisions. The Booking officer can use the saved records to see which cars are rented most, how much money comes in each month, how often cars are damaged or returned late, and then decide on prices, new cars and maintenance plans.
 
 
 ### 2. Modeling Tool Used
